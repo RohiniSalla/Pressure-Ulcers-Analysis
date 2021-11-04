@@ -1,6 +1,5 @@
 ---
-title: "Occipital Pressure Ulcer Analysis"
-output: html_document
+#title: "Occipital Pressure Ulcer Analysis"
 ---
 
 After filtering the NIS dataset down to only those who have been diagnosed with one of the ICD-10 codes corresponding to occipital pressure ulcers (the I10_DX[NUM] variables), further analysis is now ready.
